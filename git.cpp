@@ -6,5 +6,7 @@ int main()
     echo "Hello world!";
     echo "JD";
     echo "EEEEEEEOOOOOOO";
+    echo "EEEEOOOO";
+    echo "JAJO";
     return 0;
 }
